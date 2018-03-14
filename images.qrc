@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>ONe.png</file>
+        <file>fac.png</file>
+        <file>yot.png</file>
+        <file>of.png</file>
+        <file>OK.png</file>
+        <file>OK2.png</file>
+        <file>OK3.png</file>
+        <file>OK4.png</file>
+        <file>on.png</file>
+        <file>del.png</file>
+        <file>del1.png</file>
+        <file>del2.png</file>
+        <file>botom.png</file>
+        <file>top.png</file>
+        <file>add.png</file>
+        <file>Save2.png</file>
+        <file>cancel.png</file>
+        <file>RestoreDefaults.png</file>
+        <file>exit.png</file>
+    </qresource>
+    <qresource prefix="/text">
+        <file>Currency.Cur</file>
+    </qresource>
+</RCC>
